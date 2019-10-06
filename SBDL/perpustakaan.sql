@@ -108,7 +108,7 @@ CREATE TABLE IF NOT EXISTS `buku` (
 INSERT INTO `buku` (`id_buku`, `id_kelas`, `id_jenis`, `judul`, `pengarang`, `penerbit`, `th_terbit`, `isbn`, `jml_hal`, `harga`, `id_lokasi`, `tgl_input`) VALUES
 (111, 1, 11, 'jika kamu menjadi tanda tambah', 'Trista Speed Shaskan', 'BIP, Jakarta 2010', 2010, '1234567891011', 300, '200.00', 101, '2019-03-09 10:24:38'),
 (222, 2, 22, 'beruang kutub dan panda', 'Matthew J.baek', 'Kid Classic', 2011, '2638194618461', 267, '50.00', 102, '2019-03-30 11:13:43'),
-(333, 3, 33, 'Pierre', 'Gustavo Mazali', 'Pt Gramedia Pusaka\r\n', 2009, '9371640194716', 234, '70.00', 103, '2019-06-09 09:04:29'),
+(333, 3, 33, 'Pierre', 'Gustavo Mazali', 'Pt Gramedia Pusaka', 2009, '9371640194716', 234, '70.00', 103, '2019-06-09 09:04:29'),
 (444, 4, 44, 'piknik seru', 'Anita Hairunnisa', 'Little Serambi, Jakarta 2009', 2009, '9481037401947', 453, '55.00', 104, '2019-03-20 13:22:36'),
 (555, 5, 55, 'buku pintar pengetahuan umum', 'Robert oeban', 'Karisma', 2010, '3817481038134', 342, '100.00', 105, '2019-02-20 12:10:30'),
 (666, 6, 66, 'membaca pikiran orang lewat bahasa tubuh', 'dianata eka putra', 'kaifa PT.Mizan pustaka', 2012, '2313909761541', 231, '100.00', 106, '2019-04-11 11:05:23'),
